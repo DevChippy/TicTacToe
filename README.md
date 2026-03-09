@@ -1,5 +1,4 @@
-# TicTacToe
-A Tic Tac Toe game made in C++!
+# Tic Tac Toe game made in C++!
 
 Welcome to Tic Tak Toe!
 This was just a side project so I hope you enjoy it!
